@@ -1,0 +1,9600 @@
+[{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34ca"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34cb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34cc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34cd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34ce"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34cf"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34d9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34da"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34db"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34dc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34dd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34de"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34df"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34e9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34ea"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34eb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34ec"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34ed"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34ee"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34ef"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34f9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34fa"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34fb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34fc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34fd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34fe"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db34ff"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3500"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3501"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3502"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3503"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3504"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3505"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3506"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3507"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3508"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3509"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db350a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db350b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db350c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db350d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db350e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db350f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3510"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3511"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3512"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3513"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3514"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3515"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3516"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3517"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3518"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3519"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db351a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db351b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db351c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db351d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db351e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db351f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3520"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3521"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3522"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3523"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3524"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3525"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3526"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3527"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3528"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3529"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db352a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db352b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db352c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db352d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db352e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db352f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3530"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3531"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3532"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3533"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3534"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3535"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3536"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3537"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3538"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3539"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db353a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db353b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db353c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db353d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db353e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db353f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3540"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3541"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3542"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3543"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3544"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3545"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3546"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3547"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3548"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3549"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db354a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db354b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db354c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db354d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db354e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db354f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3550"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3551"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3552"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3553"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3554"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3555"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3556"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3557"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3558"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3559"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db355a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db355b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db355c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db355d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db355e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db355f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3560"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3561"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3562"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3563"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3564"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3565"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3566"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3567"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3568"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3569"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db356a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db356b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db356c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db356d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db356e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db356f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3570"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3571"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3572"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3573"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3574"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3575"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3576"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3577"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3578"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3579"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db357a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db357b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db357c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db357d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db357e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db357f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3580"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3581"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3582"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3583"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3584"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3585"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3586"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3587"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3588"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3589"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db358a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db358b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db358c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db358d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db358e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db358f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3590"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3591"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3592"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3593"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3594"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3595"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3596"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3597"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3598"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3599"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db359a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db359b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db359c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db359d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db359e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db359f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35a9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35aa"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ab"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ac"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ad"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ae"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35af"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35b9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ba"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35bb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35bc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35bd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35be"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35bf"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35c9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ca"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35cb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35cc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35cd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ce"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35cf"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35d9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35da"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35db"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35dc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35dd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35de"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35df"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35e9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ea"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35eb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ec"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ed"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ee"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ef"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35f9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35fa"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35fb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35fc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35fd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35fe"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db35ff"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3600"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3601"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3602"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3603"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3604"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3605"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3606"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3607"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3608"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3609"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-09-26T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db360a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db360b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db360c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db360d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db360e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db360f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3610"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3611"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3612"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3613"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3614"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3615"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3616"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3617"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3618"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3619"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db361a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db361b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db361c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db361d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db361e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db361f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3620"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3621"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3622"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3623"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3624"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3625"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3626"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3627"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3628"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3629"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db362a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db362b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db362c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db362d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db362e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db362f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3630"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3631"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3632"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3633"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3634"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3635"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3636"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3637"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3638"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3639"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db363a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db363b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db363c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db363d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db363e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db363f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3640"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3641"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3642"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3643"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3644"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3645"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3646"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3647"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3648"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3649"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db364a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db364b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db364c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db364d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db364e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db364f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3650"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3651"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3652"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3653"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3654"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3655"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3656"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3657"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3658"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3659"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db365a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db365b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db365c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db365d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db365e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db365f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3660"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3661"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3662"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3663"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3664"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3665"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3666"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3667"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3668"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3669"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db366a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db366b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db366c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db366d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db366e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db366f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3670"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3671"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3672"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3673"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3674"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3675"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3676"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3677"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3678"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3679"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db367a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db367b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db367c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db367d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db367e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db367f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3680"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3681"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3682"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3683"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3684"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3685"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3686"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3687"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3688"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3689"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db368a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db368b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db368c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db368d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db368e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db368f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3690"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3691"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3692"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3693"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3694"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3695"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3696"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3697"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3698"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3699"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db369a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db369b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db369c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db369d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db369e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db369f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36a9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36aa"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ab"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ac"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ad"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ae"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36af"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36b9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ba"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36bb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36bc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36bd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36be"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36bf"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36c9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ca"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36cb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36cc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36cd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ce"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36cf"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36d9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36da"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36db"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36dc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36dd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36de"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36df"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36e9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ea"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36eb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ec"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ed"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ee"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ef"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f0"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f1"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f2"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f3"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f4"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f5"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f6"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f7"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f8"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36f9"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36fa"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36fb"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36fc"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36fd"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36fe"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db36ff"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3700"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3701"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b6"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3702"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3703"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3704"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3705"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3706"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3707"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3708"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3709"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b7"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db370a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db370b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db370c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db370d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db370e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db370f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3710"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3711"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b8"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3712"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3713"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3714"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3715"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3716"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3717"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3718"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3719"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34b9"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db371a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db371b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db371c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db371d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db371e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db371f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3720"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3721"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34ba"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3722"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3723"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3724"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3725"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3726"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3727"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3728"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3729"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bb"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db372a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db372b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db372c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db372d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db372e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db372f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3730"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3731"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bc"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3732"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3733"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3734"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3735"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3736"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3737"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3738"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3739"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bd"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db373a"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db373b"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db373c"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db373d"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db373e"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db373f"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3740"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3741"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34be"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3742"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c0"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3743"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c1"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3744"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c2"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3745"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c3"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3746"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c4"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3747"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c5"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3748"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c6"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "6505e7fca5fc3838b2db3749"
+  },
+  "userId": {
+    "$oid": "6505c73ba5fc3838b2db34bf"
+  },
+  "topicId": {
+    "$oid": "6505caa1a5fc3838b2db34c7"
+  },
+  "date": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "isPresent": true
+}]

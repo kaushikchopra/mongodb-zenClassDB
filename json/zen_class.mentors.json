@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6505cbc3a5fc3838b2db34c8"
+  },
+  "name": "Anmol Pandey",
+  "taughtTopics": [
+    "HTML Fundamentals",
+    "CSS Styling and Layout",
+    "Bootstrap Framework",
+    "Javascript Basics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6505cbc3a5fc3838b2db34c9"
+  },
+  "name": "Ritesh Deshmukh",
+  "taughtTopics": [
+    "ReactJS Fundamentals",
+    "MongoDB Database Management",
+    "Node.js Server Development",
+    "Express.js Framework"
+  ]
+}]

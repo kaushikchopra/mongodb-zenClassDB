@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6505f182a5fc3838b2db37e4"
+  },
+  "company": "Tech Innovators Inc.",
+  "driveDate": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "jobRole": "Full Stack Web Developer",
+  "description": "Join our dynamic team and work on cutting-edge web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. You will be responsible for both front-end and back-end development, ensuring seamless user experiences and robust server-side logic."
+},
+{
+  "_id": {
+    "$oid": "6505f182a5fc3838b2db37e5"
+  },
+  "company": "CodeCrafters Ltd.",
+  "driveDate": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "jobRole": "MERN Stack Developer",
+  "description": "We're seeking an experienced MERN Stack Developer to build responsive web applications that delight our users. You'll collaborate with cross-functional teams to design and implement scalable solutions while optimizing performance and security."
+},
+{
+  "_id": {
+    "$oid": "6505f182a5fc3838b2db37e6"
+  },
+  "company": "Digital Nexus Solutions",
+  "driveDate": {
+    "$date": "2023-10-30T00:00:00.000Z"
+  },
+  "jobRole": "Senior Full Stack Engineer",
+  "description": "As a Senior Full Stack Engineer, you'll lead the development of MERN-based applications, mentor junior developers, and contribute to architectural decisions. Your expertise in front-end and back-end technologies will drive innovation and ensure code quality."
+}]

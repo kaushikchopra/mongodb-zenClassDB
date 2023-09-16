@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db3776"
+  },
+  "title": "Problem 1: Two Sum",
+  "description": "Given an array of integers, return indices of the two numbers such that they add up to a specific target.",
+  "totalSolved": 15
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db3777"
+  },
+  "title": "Problem 2: Reverse a String",
+  "description": "Write a function that reverses a string. The input string is given as an array of characters.",
+  "totalSolved": 12
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db3778"
+  },
+  "title": "Problem 3: Palindrome Checker",
+  "description": "Check if a given string is a palindrome. Ignore non-alphanumeric characters and consider case-insensitivity.",
+  "totalSolved": 10
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db3779"
+  },
+  "title": "Problem 4: Fibonacci Sequence",
+  "description": "Generate the Fibonacci sequence up to a specified number of terms.",
+  "totalSolved": 8
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db377a"
+  },
+  "title": "Problem 5: Binary Search",
+  "description": "Implement a binary search algorithm to find an element in a sorted array.",
+  "totalSolved": 14
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db377b"
+  },
+  "title": "Problem 6: Linked List Reversal",
+  "description": "Reverse a singly linked list.",
+  "totalSolved": 9
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db377c"
+  },
+  "title": "Problem 7: Merge Sort",
+  "description": "Implement the merge sort algorithm for sorting an array.",
+  "totalSolved": 7
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db377d"
+  },
+  "title": "Problem 8: Binary Tree Traversal",
+  "description": "Implement in-order, pre-order, and post-order traversals of a binary tree.",
+  "totalSolved": 11
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db377e"
+  },
+  "title": "Problem 9: Valid Parentheses",
+  "description": "Determine if a given string containing parentheses is valid.",
+  "totalSolved": 13
+},
+{
+  "_id": {
+    "$oid": "6505ef49a5fc3838b2db377f"
+  },
+  "title": "Problem 10: Anagram Checker",
+  "description": "Check if two given strings are anagrams of each other.",
+  "totalSolved": 6
+}]

@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6505ebdea5fc3838b2db374a"
+  },
+  "title": "Complete HTML/CSS Assignment",
+  "description": "Create a webpage using HTML and CSS.",
+  "dueDate": {
+    "$date": "2023-09-21T00:00:00.000Z"
+  },
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6505ebdea5fc3838b2db374b"
+  },
+  "title": "ReactJS Project",
+  "description": "Build a ReactJS application with CRUD functionality.",
+  "dueDate": {
+    "$date": "2023-10-07T00:00:00.000Z"
+  },
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6505ebdea5fc3838b2db374c"
+  },
+  "title": "Node.js API Development",
+  "description": "Develop a RESTful API using Node.js and Express.js.",
+  "dueDate": {
+    "$date": "2023-10-19T00:00:00.000Z"
+  },
+  "completed": false
+},
+{
+  "_id": {
+    "$oid": "6505ebdea5fc3838b2db374d"
+  },
+  "title": "Capstone Project",
+  "description": "Complete the capstone project for the Zen class",
+  "dueDate": {
+    "$date": "2023-10-30T00:00:00.000Z"
+  },
+  "completed": false
+}]
